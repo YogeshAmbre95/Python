@@ -1,0 +1,49 @@
+COMPLETE THE EXERCISE AND SHARE ANSWER CODE WITH OUTPUT .
+
+#################################################
+# Exercise  dated : 07.07.2022
+#################################################
+
+# 1. use input() to get user name and print " Welcome <user name>"
+# 2. using escape character print the  addess lines exactly as below:
+'''
+ C/O Mr. Singh
+ New Aarey Colony 
+ Mumbai
+ '''
+# 3. find the invalid variable naming 
+    # a. find_me_1
+    # b. 1_find_me_
+    # c. find_me__
+    # d. _1_find_me
+    # e. _find_me_
+    # e. @find_me__
+# 4. find  and print data type of below variables using type()
+a = 23
+b = 45.44
+c = "@75 Young India"
+d = 39+6j
+f = {5}
+g = {5,}
+h = (25,35)
+h = (25,)
+h = ()
+i = [1,2,5,8,"rrr" ,"@345"]
+j = {
+    1 : 10 ,
+    2 : 20,
+    3 : 30
+}
+
+# 5. reverse the below string and print the output :
+string1 = "EVIL OLIVE"
+
+
+# 6. use slicing to extract "GOD" from the string  and print the output
+string2 = "Peter Higgs: the man behind the God particle"
+
+# 7. find number of space in below string  and print the output
+string3 = "Peter Higgs: the man behind the God particle"
+
+# 8. replace man with "Person" in below string  and print the output
+string4 = "Peter Higgs: the man behind the God particle"
